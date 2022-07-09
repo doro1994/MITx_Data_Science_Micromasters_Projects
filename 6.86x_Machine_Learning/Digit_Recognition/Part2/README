@@ -1,0 +1,6 @@
+In this project we will be implementing a neural network to classify MNIST digits.
+
+part2-nn/neural_nets.py in which I will implement my first neural net from scratch
+part2-mnist/nnet_fc.py where I will start using PyTorch to classify MNIST digits
+part2-mnist/nnet_conv.py where I will use convolutional layers to boost performance
+part2-twodigit/mlp.py and part2-twodigit/conv.py which are for a new, more difficult version of the MNIST dataset
